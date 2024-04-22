@@ -1,1 +1,1 @@
-Hi! These is my minor project.
+Hi! These is my online banking system project.
